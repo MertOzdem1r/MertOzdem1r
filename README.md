@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 Hey there! I’m Mert, a CS freshman at Bilkent, 
+☕turning coffee into code 
 
 <!--
 **MertOzdem1r/MertOzdem1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
